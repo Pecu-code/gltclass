@@ -11,6 +11,15 @@ body{
     min-width: 100%;
 }
 
+a{
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
 main{
     display: grid;
     grid-template-areas: 
@@ -28,7 +37,7 @@ main{
 main div{
     padding: 20px;
     text-align: center;
-    border-radius:;
+    
 }
 
 .item-a{
